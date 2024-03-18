@@ -1,6 +1,9 @@
 function firstChar(text) {
-  // your code here
-}
+        // your code here
+        const str = text.trim();
+        return str.charAt(0);
+      }
+
 
 // Do not change the code below
 
